@@ -25,7 +25,6 @@ a{
 #main {
     display: flex;
     justify-content: center;
-    margin-top: 40px;
 }
 .container-form {
     display: flex;
@@ -65,7 +64,7 @@ a{
 }
 
 .follow-us img{
-    width: 25px;
+    width: 15px;
 }
 .card {
     margin-top: 20px;
@@ -100,6 +99,7 @@ a{
 .quick-lick a {
     color: gray;
     text-decoration: none;
+    font-size: 10px;
 }
 .cakeshop{
     width: 290px;
@@ -152,9 +152,6 @@ a{
     margin-top: 20px;
  
 }
-
-
-
 
 .btn-primary img {
     width: 20px;
@@ -300,9 +297,6 @@ a{
     width: 100vw;
     
 }
-.meet {
-    padding-top: 50px;
-}
 .meet img {
     width: 316px;
     height: 231px;
@@ -310,9 +304,7 @@ a{
 b,h5{
     color: darkblue;
 }
-.contact i {
-    font-size: 10px;
-}
+
 
 
 
